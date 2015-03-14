@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"Origenes "</string>
+    <string name="hello_world">Patrones</string>
+    <string name="action_settings">Settings</string>
+    <string name="idea1">Rios: la metáfora del viaje</string>
+    <string name="idea2">Las fuentes u orígenes de la sociedad tecnologica, y base de la sociedad del conocimiento:</string>
+    <string name="title_activity_peenemunde">Peenemunde</string>
+    <string name="title_activity_bletchley">Bletchley</string>
+    <string name="title_activity_manhattan">Manhattan</string>
+
+</resources>
