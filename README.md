@@ -1,5 +1,5 @@
 Origenes
-===============
+--------
 
 > *Las Fuentes de la Sociedad del Conocimiento
 
@@ -10,5 +10,6 @@ Origenes
 M vision
 ---------
 
-He hecho este pequeño programa para android utilizando el material 
+He hecho este pequeño programa para android. 
+Se incluyen los textos visuales.
 
