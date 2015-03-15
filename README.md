@@ -8,7 +8,7 @@ Origenes
 
 
 Mi vision
----------
+
 
 He hecho este pequeño programa para android. 
 Se incluyen los textos visuales.
