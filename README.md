@@ -7,7 +7,7 @@ Origenes
 
 
 
-M vision
+Mi vision
 ---------
 
 He hecho este pequeño programa para android. 
